@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JustDice</string>
+    <string name="start_game">Start</string>
+    <string name="help">Help</string>
+    <string name="hi">Hi, Player!</string>
+    <string name="play">Game of Dice</string>
+    <string name="go">Roll!</string>
+    <string name="toast_help">The essence of this game is to roll the dice one by one. The winner is the player with the most points in a game session.      Good luck!</string>
+</resources>
